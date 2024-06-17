@@ -1,4 +1,4 @@
-from utils.layers import _check_inputs
+from .layers import _check_inputs
 from tensorflow.keras.layers import *
 from tensorflow.keras.models import Model
 
